@@ -1,2 +1,3 @@
-# Plot_EEG_Data
+## Overview 
+
 Plot example snippets of EEG data 

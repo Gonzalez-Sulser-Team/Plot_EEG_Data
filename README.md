@@ -5,8 +5,9 @@ This script loads a single recording file using the MNE package (v1.6.1) in pyth
 
 ### Output file: 
 
+![ExampleTrace_0100](https://github.com/user-attachments/assets/ee479b18-7b87-4f51-a698-dc8f0b3f89f3)
 
-![ExampleTrace_0100](https://github.com/user-attachments/assets/89f4f490-fa89-4bba-bbf8-feeb8dab1497)
+
 
 
 
